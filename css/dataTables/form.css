@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+.sad{
+margin-left:450px;
+margin-top:150px;
+height:230px;
+width:350px;
+background:pink;
+border:2px solid black;
+box-shadow: inset 0 1.5px 30px rgba(130, 100, 150, .40), 0 0 0 5px pink;
+}
+
+.sad input[type=submit] {
+
+margin:10px;
+margin-left:230px;
+    width: 80px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+	border-radius: 10px;
+	cursor: pointer;
+	background:blue;
+	
+}
+
+.sad input[type=text],
+.sad input[type=password] {
+
+    color:black;
+	font-size: 16px;
+    padding-left: 10px;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 25px;
+    width: 290px;
+    height: 40px;
+    border: 2px solid #c7d0d2;
+    border-radius: 4px;
+	box-shadow: inset 0 1.5px 3px rgba(190, 190, 190, .4), 0 0 0 5px #f5f7f8;
+  
+}

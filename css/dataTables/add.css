@@ -1,0 +1,13 @@
+
+.txt-heading{padding: 5px 10px;font-size:1.1em;font-weight:bold;color:Green;font-family: 'HammersmithOneRegular';	font-size: 24px;
+	font-style: bold;}
+
+#product-grid {border-top: DeepPink  2px solid;margin-bottom:30px;font-family: 'HammersmithOneRegular';}
+#product-grid .txt-heading{background-color:white  ;font-family: 'HammersmithOneRegular';}
+.product-item {	float:left;	background:white;	border:2px solid black; margin:15px; height:230px;	width:240px;padding:0px;font-family: 'HammersmithOneRegular';	font-size: 16px;
+	font-style: bold;}
+.product-item div{text-align:center;	margin:10px;font-family: 'HammersmithOneRegular';}
+.product-image {height:210px;width:220px;background-color:#FFF;font-family: 'HammersmithOneRegular';}
+
+
+
